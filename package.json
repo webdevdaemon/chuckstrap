@@ -1,0 +1,26 @@
+{
+  "name": "@cmorganwebdev/chuckstrap",
+  "version": "1.0.0",
+  "description": "chuck's baggage.scss, served as baggage.css.min, for easy enjoyment on-the-go. ",
+  "main": "styles.scss",
+  "scripts": {
+    "test": "tst"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webdevdaemon/chuckstrap.git"
+  },
+  "keywords": [
+    "scss",
+    "css",
+    "framework",
+    "helpers",
+    "mixins"
+  ],
+  "author": "cm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webdevdaemon/chuckstrap/issues"
+  },
+  "homepage": "https://github.com/webdevdaemon/chuckstrap#readme"
+}
